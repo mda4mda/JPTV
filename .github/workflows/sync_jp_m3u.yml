@@ -27,6 +27,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_REPO:  ${{ github.repository }}   # auto-filled: "owner/repo"
-          GITHUB_PATH:  jp.m3u                     # ← change if you want a sub-folder
+          TARGET_PATH:  jp.m3u                     # ← change if you want a sub-folder
           GITHUB_BRANCH: main                      # ← change to your default branch if different
         run: python sync_jp_m3u.py
