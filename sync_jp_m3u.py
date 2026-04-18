@@ -28,7 +28,7 @@ GITHUB_API    = "https://api.github.com"
 
 GITHUB_TOKEN  = os.environ.get("GITHUB_TOKEN", "")
 GITHUB_REPO   = os.environ.get("GITHUB_REPO", "")          # e.g. "myuser/myrepo"
-GITHUB_PATH   = os.environ.get("GITHUB_PATH", "jp.m3u")   # path inside repo
+GITHUB_PATH   = os.environ.get("TARGET_PATH", "jp.m3u")   # path inside repo
 GITHUB_BRANCH = os.environ.get("GITHUB_BRANCH", "main")
 
 COMMIT_MSG    = "chore: sync jp.m3u from GitFlic"
