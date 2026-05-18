@@ -24,7 +24,7 @@ import json
 # ── Configuration ────────────────────────────────────────────────────────────
 
 #SOURCE_URL    = "https://gitflic.ru/project/utako/utako/blob/raw?file=jp.m3u"
-SOURCE_URL    = "https://gist.githubusercontent.com/reaperc/cb93261ae4ee11274100f66ab9a02d76/raw/01b15983a7a27f9262e272db95a02504959f35b8/jp.m3u"
+SOURCE_URL    = "http://akariko.netgenx.site/stream/master.m3u"
 GITHUB_API    = "https://api.github.com"
 
 GITHUB_TOKEN  = os.environ.get("GITHUB_TOKEN", "")
