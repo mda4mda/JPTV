@@ -104,6 +104,9 @@ https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-shigekicmaf-rakut
 #EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_42" tvg-name="映画（年齢制限あり）" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/243_r-15movie.png",映画（年齢制限あり）
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-movie2cmaf-rakutenjp/playlist.m3u8
 
+#EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_37" tvg-name="エンタメ～テレDEEP" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/218_entermeitele.png",エンタメ～テレDEEP
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-nagoyanextcmaf-rakutenjp/playlist.m3u8
+
 # === 地上デジタル ===
 
 #EXTINF:-1 group-title="地上デジタル" tvg-id="hdgd01" tvg-name="NHK G" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G
@@ -221,6 +224,9 @@ http://akariko.netgenx.site/stream/jp/wowow_plus/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="BS放送" tvg-id="CH.625" tvg-name="BS 10 Premium" tvg-logo="https://www.jcom.co.jp/service/tv/channel/option_ch/images_v10/logo/logo_bs10premium_short.png",BS 10 Premium
 http://akariko.netgenx.site/stream/jp/bs_10_premium/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="BS放送" tvg-id="BSよしもと_jp" tvg-name="BS Yoshimoto" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-265-400x400.png",BS Yoshimoto
+https://live.livingtv.live/jp38/playlist.m3u8?token=M7VMdfn2WH
 
 # === CS放送 ===
 
@@ -469,3 +475,125 @@ https://livetv.fastv.jp/channel_assembly/6960905473F5101B6A17/master.m3u8
 
 #EXTINF:-1 group-title="CS放送" tvg-id="NHKWorldJapan.jp" tvg-name="NHK World-Japan" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch220/181.png",NHK World-Japan
 https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
+
+#EXTINF:-1 group-title="CS放送" tvg-id="Dlife(ディーライフ)_jp" tvg-name="Dlife" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs312.gif",Dlife
+https://live.livingjtv.live/jp57/playlist.m3u8?token=M7VMdfn2WH
+
+#EXTINF:-1 group-title="CS放送" tvg-id="メ～テレNEXT_jp" tvg-name="Me-Tele Next" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs301.gif",Me-Tele Next
+https://live.livingjtv.live/jp86/playlist.m3u8?token=M7VMdfn2WH
+
+#EXTINF:-1 group-title="CS放送" tvg-id="ミュージック・エア_jp" tvg-name="Music Air" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs324.gif",Music Air
+https://live.livingjtv.live/jp79/playlist.m3u8?token=M7VMdfn2WH
+
+# === ABEMA ===
+
+#EXTINF:-1 group-title="ABEMA" tvg-id="atashinchi" tvg-name="あたしンちチャンネル",あたしンちチャンネル
+https://ds-linear-abematv.akamaized.net/preview/channel/atashinchi/playlist.m3u8
+
+#EXTINF:-1 group-title="ABEMA" tvg-name="BOATRACEチャンネル",BOATRACEチャンネル
+https://ds-linear-abematv.akamaized.net/preview/channel/boatrace/playlist.m3u8
+
+#EXTINF:-1 group-title="ABEMA" tvg-id="commercial" tvg-name="CMチャンネル",CMチャンネル
+https://ds-linear-abematv.akamaized.net/preview/channel/commercial/playlist.m3u8
+
+#EXTINF:-1 group-title="ABEMA" tvg-id="hiphop" tvg-name="HIPHOPチャンネル",HIPHOPチャンネル
+https://ds-linear-abematv.akamaized.net/preview/channel/hiphop/playlist.m3u8
+
+#EXTINF:-1 group-title="ABEMA" tvg-id="k-world" tvg-name="K WORLDチャンネル",K WORLDチャンネル
+https://ds-linear-abematv.akamaized.net/preview/channel/k-world/playlist.m3u8
+
+#EXTINF:-1 group-title="ABEMA" tvg-name="MOTOR SPORTチャンネル",MOTOR SPORTチャンネル
+https://ds-linear-abematv.akamaized.net/preview/channel/motor-sport/playlist.m3u8
+
+#EXTINF:-1 group-title="ABEMA" tvg-id="TBS-NEWS_jp" tvg-name="NEWSチャンネル" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/abema-news/logo.png",NEWSチャンネル
+https://ds-linear-abematv.akamaized.net/preview/channel/abema-news/playlist.m3u8
+
+#EXTINF:-1 group-title="ABEMA" tvg-id="onepiece" tvg-name="ONE PIECEチャンネル",ONE PIECEチャンネル
+https://ds-linear-abematv.akamaized.net/preview/channel/onepiece/playlist.m3u8
+
+#EXTINF:-1 group-title="ABEMA" tvg-id="abema-special" tvg-name="SPECIAL 2チャンネル",SPECIAL 2チャンネル
+https://ds-linear-abematv.akamaized.net/preview/channel/special-plus/playlist.m3u8
+
+#EXTINF:-1 group-title="ABEMA" tvg-id="abema-special" tvg-name="SPECIALチャンネル",SPECIALチャンネル
+https://ds-linear-abematv.akamaized.net/preview/channel/abema-special/playlist.m3u8
+
+#EXTINF:-1 group-title="ABEMA" tvg-id="world-sports" tvg-name="SPORTSチャンネル",SPORTSチャンネル
+https://ds-linear-abematv.akamaized.net/preview/channel/world-sports/playlist.m3u8
+
+#EXTINF:-1 group-title="ABEMA" tvg-id="chibimaruko" tvg-name="ちびまる子ちゃんチャンネル",ちびまる子ちゃんチャンネル
+https://ds-linear-abematv.akamaized.net/preview/channel/chibimaruko/playlist.m3u8
+
+#EXTINF:-1 group-title="ABEMA" tvg-id="00s-anime-1" tvg-name="なつかしアニメ00's",なつかしアニメ00's
+https://ds-linear-abematv.akamaized.net/preview/channel/00s-anime-1/playlist.m3u8
+
+#EXTINF:-1 group-title="ABEMA" tvg-id="80s-anime-1" tvg-name="なつかしアニメ80's",なつかしアニメ80's
+https://ds-linear-abematv.akamaized.net/preview/channel/80s-anime-1/playlist.m3u8
+
+#EXTINF:-1 group-title="ABEMA" tvg-id="90s-anime-1" tvg-name="なつかしアニメ90's",なつかしアニメ90's
+https://ds-linear-abematv.akamaized.net/preview/channel/90s-anime-1/playlist.m3u8
+
+#EXTINF:-1 group-title="ABEMA" tvg-id="pokemon-1" tvg-name="アニメ ポケットモンスターチャンネル1" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/pokemon-1/logo.png?height=48&quality=30&version=20200413&width=128",アニメ ポケットモンスターチャンネル1
+https://ds-linear-abematv.akamaized.net/preview/channel/pokemon-1/playlist.m3u8
+
+#EXTINF:-1 group-title="ABEMA" tvg-id="pokemon-2" tvg-name="アニメ ポケットモンスターチャンネル2" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/pokemon-2/logo.png?height=48&quality=30&version=20200413&width=128",アニメ ポケットモンスターチャンネル2
+https://ds-linear-abematv.akamaized.net/preview/channel/pokemon-2/playlist.m3u8
+
+#EXTINF:-1 group-title="ABEMA" tvg-id="special-plus-7" tvg-name="アニメSPECIALチャンネル",アニメSPECIALチャンネル
+https://ds-linear-abematv.akamaized.net/preview/channel/special-plus-7/playlist.m3u8
+
+#EXTINF:-1 group-title="ABEMA" tvg-id="abema-anime" tvg-name="アニメチャンネル",アニメチャンネル
+https://ds-linear-abematv.akamaized.net/preview/channel/abema-anime/playlist.m3u8
+
+#EXTINF:-1 group-title="ABEMA" tvg-id="abema-anime-2" tvg-name="アニメチャンネル2",アニメチャンネル2
+https://ds-linear-abematv.akamaized.net/preview/channel/isekai-anime-3/playlist.m3u8
+
+#EXTINF:-1 group-title="ABEMA" tvg-id="drama-2" tvg-name="ドラマ映画チャンネル2",ドラマ映画チャンネル2
+https://ds-linear-abematv.akamaized.net/preview/channel/drama-2/playlist.m3u8
+
+#EXTINF:-1 group-title="ABEMA" tvg-id="family-anime-1" tvg-name="ファミリーアニメ",ファミリーアニメ
+https://ds-linear-abematv.akamaized.net/preview/channel/family-anime-1/playlist.m3u8
+
+#EXTINF:-1 group-title="ABEMA" tvg-id="family-anime-2" tvg-name="ファミリーアニメ２",ファミリーアニメ２
+https://ds-linear-abematv.akamaized.net/preview/channel/family-anime-2/playlist.m3u8
+
+#EXTINF:-1 group-title="ABEMA" tvg-id="lovecomedy-anime" tvg-name="ラブコメアニメチャンネル",ラブコメアニメチャンネル
+https://ds-linear-abematv.akamaized.net/preview/channel/lovecomedy-anime/playlist.m3u8
+
+#EXTINF:-1 group-title="ABEMA" tvg-id="chinese-drama" tvg-name="中国ドラマチャンネル",中国ドラマチャンネル
+https://ds-linear-abematv.akamaized.net/preview/channel/chinese-drama/playlist.m3u8
+
+#EXTINF:-1 group-title="ABEMA" tvg-id="sumo" tvg-name="大相撲チャンネル",大相撲チャンネル
+https://ds-linear-abematv.akamaized.net/preview/channel/sumo/playlist.m3u8
+
+#EXTINF:-1 group-title="ABEMA" tvg-id="dailylife-anime" tvg-name="日常・青春アニメチャンネル",日常・青春アニメチャンネル
+https://ds-linear-abematv.akamaized.net/preview/channel/dailylife-anime/playlist.m3u8
+
+#EXTINF:-1 group-title="ABEMA" tvg-id="fighting-sports" tvg-name="格闘チャンネル",格闘チャンネル
+https://ds-linear-abematv.akamaized.net/preview/channel/fighting-sports/playlist.m3u8
+
+#EXTINF:-1 group-title="ABEMA" tvg-id="late-night-anime" tvg-name="深夜アニメチャンネル",深夜アニメチャンネル
+https://ds-linear-abematv.akamaized.net/preview/channel/late-night-anime/playlist.m3u8
+
+#EXTINF:-1 group-title="ABEMA" tvg-id="isekai-anime-2" tvg-name="異世界・ファンタジーアニメ2チャンネル",異世界・ファンタジーアニメ2チャンネル
+https://ds-linear-abematv.akamaized.net/preview/channel/isekai-anime-2/playlist.m3u8
+
+#EXTINF:-1 group-title="ABEMA" tvg-id="isekai-anime" tvg-name="異世界・ファンタジーアニメチャンネル",異世界・ファンタジーアニメチャンネル
+https://ds-linear-abematv.akamaized.net/preview/channel/isekai-anime/playlist.m3u8
+
+#EXTINF:-1 group-title="ABEMA" tvg-id="keirin-auto" tvg-name="競輪・オートレースチャンネル" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/keirin-auto/logo.png?height=48&quality=30&version=20200413&width=128",競輪・オートレースチャンネル
+https://ds-linear-abematv.akamaized.net/preview/channel/keirin-auto/playlist.m3u8
+
+#EXTINF:-1 group-title="ABEMA" tvg-id="asia-drama" tvg-name="韓国ドラマチャンネル",韓国ドラマチャンネル
+https://ds-linear-abematv.akamaized.net/preview/channel/asia-drama/playlist.m3u8
+
+#EXTINF:-1 group-title="ABEMA" tvg-id="asia-drama-2" tvg-name="韓国ドラマチャンネル2",韓国ドラマチャンネル2
+https://ds-linear-abematv.akamaized.net/preview/channel/asia-drama-2/playlist.m3u8
+
+#EXTINF:-1 group-title="ABEMA" tvg-id="asia-love-comedy" tvg-name="韓国ラブコメディ",韓国ラブコメディ
+https://ds-linear-abematv.akamaized.net/preview/channel/asia-love-comedy/playlist.m3u8
+
+#EXTINF:-1 group-title="ABEMA" tvg-id="asia-historical" tvg-name="韓国時代劇",韓国時代劇
+https://ds-linear-abematv.akamaized.net/preview/channel/asia-historical/playlist.m3u8
+
+#EXTINF:-1 group-title="ABEMA" tvg-id="anime-live" tvg-name="アニメLIVEチャンネル",アニメLIVEチャンネル
+https://ds-linear-abematv.akamaized.net/preview/channel/anime-live/playlist.m3u8
