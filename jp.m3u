@@ -59,11 +59,11 @@ https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-rchannelbenessehl
 #EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_65" tvg-name="キッズ" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_65.png",キッズ
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-kids-english-cmaf-rakutenjp/playlist.m3u8
 
-#PARKED##EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_104" tvg-name="that’s 70s" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/thats_70s.png",that’s 70s
-#PARKED#https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-lightningnow70s-rakutenjp/playlist.m3u8
+#EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_104" tvg-name="that’s 70s" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/thats_70s.png",that’s 70s
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-lightningnow70s-rakutenjp/playlist.m3u8
 
-#PARKED##EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_105" tvg-name="that’s 80s" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/thats_80s.png",that’s 80s
-#PARKED#https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-lightningnow80s-rakutenjp/playlist.m3u8
+#EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_105" tvg-name="that’s 80s" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/thats_80s.png",that’s 80s
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-lightningnow80s-rakutenjp/playlist.m3u8
 
 #EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_106" tvg-name="that’s 90s00s" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/thats_90s00s.png",that’s 90s00s
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-lightning-now90s00s-rakutenjp/playlist.m3u8
