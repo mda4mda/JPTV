@@ -87,9 +87,6 @@ https://haru.charandom.blog/stream/jp/bs_tbs/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="BS | SG 01" tvg-id="bs05" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_23.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/bs_tv_tokyo/replay.m3u8?mode=hls&start=${start}",BS TV Tokyo
 https://haru.charandom.blog/stream/jp/bs_tv_tokyo/stream-output.m3u8?mode=hls
 
-#EXTINF:-1 group-title="BS | SG 01" tvg-id="bs_tv_tokyo_4k" tvg-logo="https://xuanzi-storage.netgenx.site/" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/bs_tv_tokyo_4k/replay.m3u8?mode=hls&start=${start}",BS TV Tokyo 4K
-https://haru.charandom.blog/stream/jp/bs_tv_tokyo_4k/stream-output.m3u8?mode=hls
-
 #EXTINF:-1 group-title="BS | SG 01" tvg-id="bs_yoshimoto" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_35.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/bs_yoshimoto/replay.m3u8?mode=hls&start=${start}",BS Yoshimoto
 https://haru.charandom.blog/stream/jp/bs_yoshimoto/stream-output.m3u8?mode=hls
 
@@ -107,9 +104,6 @@ https://haru.charandom.blog/stream/jp/fishing_vision/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="BS | SG 01" tvg-id="bs14" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_36.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/green_channel/replay.m3u8?mode=hls&start=${start}",Green Channel
 https://haru.charandom.blog/stream/jp/green_channel/stream-output.m3u8?mode=hls
-
-#EXTINF:-1 group-title="BS | SG 01" tvg-id="" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_ouj.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/hoso_daigaku_ex/replay.m3u8?mode=hls&start=${start}",Hoso Daigaku EX
-https://haru.charandom.blog/stream/jp/hoso_daigaku_ex/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="BS | SG 01" tvg-id="bs31" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_34.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/jcom_bs/replay.m3u8?mode=hls&start=${start}",JCOM BS
 https://haru.charandom.blog/stream/jp/jcom_bs/stream-output.m3u8?mode=hls
