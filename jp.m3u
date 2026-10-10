@@ -30,6 +30,12 @@ https://haru.charandom.blog/stream/jp/tv_asahi/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="Tokyo | SG 01" tvg-id="gd07" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_6.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/tv_tokyo/replay.m3u8?mode=hls&start=${start}",TV Tokyo
 https://haru.charandom.blog/stream/jp/tv_tokyo/stream-output.m3u8?mode=hls
 
+#EXTINF:-1 group-title="Tokyo | SG 01" tvg-id="teletama_no_epg" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_teletama.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/teletama/replay.m3u8?mode=hls&start=${start}",Teletama
+https://haru.charandom.blog/stream/jp/teletama/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="Tokyo | SG 01" tvg-id="tvk_1_no_epg" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_tvk.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/tvk/replay.m3u8?mode=hls&start=${start}",Tvk
+https://haru.charandom.blog/stream/jp/tvk/stream-output.m3u8?mode=hls
+
 #EXTINF:-1 group-title="Kansai | SG 01" tvg-id="gx02" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_10.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/abc/replay.m3u8?mode=hls&start=${start}",ABC
 https://haru.charandom.blog/stream/jp/abc/stream-output.m3u8?mode=hls
 
