@@ -26,8 +26,8 @@ import json
 #SOURCE_URL    = "https://gitflic.ru/project/utako/utako/blob/raw?file=jp.m3u"
 #SOURCE_URL    = "http://akariko.netgenx.site/stream/master.m3u"
 #SOURCE_URL     = "https://gitflic.ru/project/reaperc/jp-iptv/blob/raw?file=JP_Categories.m3u"
-#SOURCE_URL    = "https://akariko-bck2.sankuria.sbs/stream/master.m3u?mode=hls&pass=NHM7P-P4B7E-P26VN-M1WRF"
-SOURCE_URL    = "https://haru.charandom.blog/stream/master.m3u"
+SOURCE_URL    = "https://0i4neux01.charandom.blog/stream/master.m3u?mode=hls&pass=JXDYE-3E450-CK4J2-120C2"
+#SOURCE_URL    = "https://haru.charandom.blog/stream/master.m3u"
 GITHUB_API    = "https://api.github.com"
 
 GITHUB_TOKEN  = os.environ.get("GITHUB_TOKEN", "")
